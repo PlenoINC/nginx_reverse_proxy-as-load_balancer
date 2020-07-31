@@ -4,6 +4,5 @@
 ```sh
 $ docker-compose up -d
 ```
-### Captures:
-
-![alt-text-1](https://github.com/vicent3rod/nginx_reverse_proxy-as-load_balancer/blob/master/schema/schema.png)
+### Schema:
+![alt text](https://github.com/vicent3rod/nginx_reverse_proxy-as-load_balancer/blob/master/schema/schema.png)
